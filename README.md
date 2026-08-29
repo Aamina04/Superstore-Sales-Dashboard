@@ -6,9 +6,9 @@ This project explores sales and profitability patterns in a retail "Superstore" 
 This was built as part of a hands-on data analytics learning roadmap, focused on going beyond basic charts and applying real data storytelling principles reducing visual clutter, using color with intention, and surfacing a clear takeaway rather than just displaying numbers.
 
 ## 📊 Dataset
-The dataset (`superstore.csv`) contains order-level retail transaction records spanning 2014–2017, including:
+The dataset (`superstore.csv`) contains order-level retail transaction records spanning 2014-2017, including:
 
-- **Order Date / Ship Date** – when each order was placed and shipped
+- **Order Date / Ship Date** - when each order was placed and shipped
 - **Region / State** – the geographic location tied to each order (Central, East, South, West)
 - **Category / Sub-Category** – product classification (Technology, Furniture, Office Supplies, and their sub-categories like Chairs, Binders, Machines, etc.)
 - **Segment** – type of customer (Consumer, Corporate, Home Office)
